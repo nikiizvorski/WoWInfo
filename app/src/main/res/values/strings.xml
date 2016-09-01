@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WoWInfo</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_draenor">Draenor</string>
+    <string name="title_activity_mount">MountActivity</string>
+    <string name="title_activity_character">Character</string>
+    <string name="title_activity_splash">Splash</string>
+</resources>

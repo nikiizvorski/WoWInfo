@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="wback">#1a0f08</color>
+    <color name="nback">#26150b</color>
+    <color name="upback">#170d07</color>
+    <color name="textc">#efc9a0</color>
+    <color name="texth">#efe3d2</color>
+    <color name="epic">#a335ee</color>
+    <color name="rare">#0070dd</color>
+    <color name="transp">#00000000</color>
+    <color name="blackpure">#000000</color>
+</resources>
